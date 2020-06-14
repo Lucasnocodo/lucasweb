@@ -1,0 +1,135 @@
+{
+    "home" : {
+        "title": "Lucas selfi",
+        "contact":"與我聯絡",
+        "homePage":"首頁",
+        "blog":"心情文章",
+        "paymentPlan":"付費方案介紹"
+
+    },
+    "c" :{
+        "top": "上一頁",
+        "submit": "送出",
+        "file_select": "選擇檔案",
+        "googleLogin":"Google 登入",
+        "login":"登入"
+    },
+    "nativeBar":{
+        "personalInfo":"個人資訊",
+        "signup":"註冊",
+        "login":"登入",
+        "function":"功能",
+        "payment":"付費方案",
+        "news":"最新消息",
+        "contact": "聯絡我們",
+        "trail":"免費試用"
+    },
+    "signup": {
+        "signup": "免費試用",
+        "subInfo" : "請填寫註冊資料",
+        "account": "帳號",
+        "password": "密碼",
+        "passwordConfirm": "確認密碼",
+        "companyName": "公司名稱",
+        "Title": "職稱",
+        "phoneNum": "電話號碼",
+        "scale": "公司規模",
+        "haveaccount":"已有帳號?",
+        "select":"請選擇您的公司規模",
+        "alone":"個人事業",
+        "people":" 人",
+        "above":"101人以上"
+
+    },
+    "login": {
+        "login": "登入",
+        "password": "密碼",
+        "notMember": "還不是會員?",
+        "forgetPassword":"忘記密碼？"
+    },
+    "helpText":{
+        "numOnly":"僅限輸入數字",
+        "emailFormErr":"尚未符合email格式",
+        "require":"此項不能為空",
+        "notMatch":"密碼尚未相符"
+        
+    },
+    "payment": {
+        "planIntro": "方案介紹",
+        "month" : "個月",
+        "originalPrice": "原價",
+        "off10": "原價九折",
+        "off20": "原價八折",
+        "plan3":"每帳號600元/月",
+        "plan6":"每帳號540元/月",
+        "plan12":"每帳號480元/月"
+
+    },
+    "news":{
+        "empty" : {
+            "title":"查無文章",
+            "comment":"你所瀏覽的文章不存在"
+        }
+    },
+    "contact": {
+        "mainTitle": "聯絡我們",
+        "subInfo" : "請填寫表單",
+        "name": "姓名",
+        "companyName": "公司名稱",
+        "title": "職稱",
+        "phoneNum": "電話號碼",
+        "message":"請留下您要傳遞給我們訊息"
+    },
+    "memberData": {
+        "mainTitle": "會員基本資料",
+        "editSwitch":"修改"
+
+    },
+    "vaildation":{
+        "empty_pre": "請輸入",
+        "empty_post": " ",
+        "invaild": "",
+        "invaild_post": "格式不正確",
+        "empty_select_pre": "請選擇",
+        "empty_select_post": " ",
+        "empty_upload_pre": "請上傳",
+        "empty_upload_post": " ",
+        "email_used": "該E-mail已被登記，請使用其他E-mail"
+    },
+    "function":{
+        "finance":"財務",
+        "finance_budget":"預算管理",
+        "finance_account":"日記帳",
+        "finance_report":"財務報表"
+    },
+    "personnel":{
+        "personnel_name":"人事",
+        "department":"部門設定",
+        "personnel":"社員管理",
+        "attendance_record":"出缺勤管理",
+        "payroll":"薪資計算"
+    },
+    "sign":{
+        "sign_name":"簽核",
+        "form":"自訂表單流程",
+        "sign":"行動式呈簽核",
+        "progress":"查閱簽核進度"
+    },
+    
+    "cashflow":{
+        "title":"付款流程",
+        "subInfo":"請填寫付款資訊",
+        "card_number":"信用卡號",
+        "expire_year":"有效年份",
+        "expire_month":"有效月份",
+        "security_code":"安全碼",
+        "card_holder_name":"持卡人姓名",
+        "paln_choose":"選擇方案",
+        "planA":"3個月方案",
+        "planB":"6個月方案",
+        "planC":"12個月方案",
+        "payValue":"付款金額"
+
+    }
+    
+}

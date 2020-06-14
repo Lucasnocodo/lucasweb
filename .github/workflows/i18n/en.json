@@ -1,0 +1,106 @@
+{
+    "home" : {
+        "title": "Lucas selfi",
+        "contact":"contact me",
+        "homePage":"homePage",
+        "blog":"blog",
+        "paymentPlan":"Plan intro"
+        
+    },
+    "c" :{
+        "top": "Back",
+        "submit": "Submit",
+        "file_select": "File Select",
+        "googleLogin":"Login with Google",
+        "login":"login"
+    },
+    
+    "nativeBar":{
+        "personalInfo":"Personal Info",
+        "signup":"Signup",
+        "login":"Login",
+        "function":"Function",
+        "payment":"Payment plan",
+        "news":"news",
+        "contact": "Contact us",
+        "trail":"Free trial"
+    },
+    "signup": {        
+        "signup": "Free trial",
+        "subInfo" : "Please fill out the form",
+        "account": "account",
+        "password": "password",
+        "passwordConfirm": "password confirm",
+        "companyName": "company name",
+        "Title": "Title",
+        "phoneNum": "phone number",
+        "scale": "scale of company",
+        "haveaccount":"already have account?",
+        "select":"Please select your company scale.",
+        "alone":"Personal career",
+        "people":" people",
+        "above":"More than 101 people"
+    },
+    "login": {
+        "login": "Membership login",
+        "password": "password",
+        "notMember": "Not a member yet?",
+        "forgetPassword":"forgot password?"
+    },
+    "helpText":{
+        "numOnly":"number only",
+        "emailFormErr":"email form isn't correct",
+        "require":"This item is required.",
+        "notMatch":"Passwords do not match."
+        
+    },
+    "payment": {
+        "planIntro": "Introduction",
+        "month" : "months",
+        "originalPrice": "Original price",
+        "off10": "Original price 10% of",
+        "off20": "Original price 20% of",
+        "plan3":"600NTD/month per account.",
+        "plan6":"540/month per account.",
+        "plan12":"480/month per account."
+
+    },
+    "news":{
+        "empty" : {
+            "title":"Page not found",
+            "comment":"This page is not exist."
+        }
+    },
+    "contact": {
+        "mainTitle": "contact us",
+        "subInfo" : "Please fill out this form.",
+        "name": "subInfo",
+        "companyName": "company name",
+        "title": "Title",
+        "phoneNum": "phone number",
+        "message":"meaasge"
+
+    },
+    
+    "memberData": {
+        "mainTitle": "Member Data",
+        "editSwitch":"edit"
+
+    },
+    
+    "vaildation":{
+        "empty_pre": "Please Enter ",
+        "empty_post": ".",
+        "invaild": "",
+        "invaild_post": "is invaild.",
+        "empty_select_pre": "Please Select  ",
+        "empty_select_post": ".",
+        "empty_upload_pre":  "Please Upload  ",
+        "empty_upload_post": ".",
+        "email_used": "This E-mail has been recorded, please use another one."
+    },
+    "cashflow":{
+        "title":"payment"
+    }
+
+}

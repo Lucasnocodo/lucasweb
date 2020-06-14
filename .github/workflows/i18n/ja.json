@@ -1,0 +1,115 @@
+{
+    "home" : {
+        "title": "Lucas selfi",
+        "contact":"お問い合わせ",
+        "homePage":"ホームページ",
+        "blog":"文章",
+        "paymentPlan":"付費方案介紹"
+
+        
+    },
+    "c" :{
+        "top": "戻る",
+        "submit": "送信",
+        "file_select": "ファイルを選択して下さい",
+        "googleLogin":"Googleにログイン",
+        "login":"ログイン"
+    },
+    "menu" : {
+        "news": "",
+        "intro": "会社概要",
+        "solution": "会社実績",
+        "recruit": "人材募集",
+        "contact": "",
+        "traffic": "アクセス",
+        "fanpage": "ファンページ",
+        "language": "中文",
+        "messaeg": "社長メッセージ",
+        "history":"会社沿革",
+        "home":"Homeへ戻る",
+        "loging":"ログイン"
+    },
+    "nativeBar":{
+        "personalInfo":"個人情報",
+        "signup":"サインアップ",
+        "login":"ログイン",
+        "function":"機能",
+        "payment":"有料プラン",
+        "news":"最新ニュース",
+        "contact": "お問い合わせ",
+        "trail":"無料試し"
+    },
+    "signup": {
+        "signup": "無料試し",
+        "subInfo" : "登録情報を入力してください",
+        "account": "アカウント",
+        "password": "パスワード",
+        "passwordConfirm": "パスワード確認",
+        "companyName": "会社名",
+        "Title": "職名",
+        "phoneNum": "電話番号",
+        "scale": "会社の規模",
+        "haveaccount":"アカウントがありあます?",
+        "select":"選択してください",
+        "alone":"経営者のみ",
+        "people":" 人",
+        "above":"101人以上"
+    },
+    "login": {
+        "login": "会員ログイン",
+        "password": "パスワード",
+        "notMember": "まだメンバーではありませんか？",
+        "forgetPassword":"パスワードをお忘れですか？"
+    },
+    "helpText":{
+        "numOnly":"数字のみを入力してください",
+        "emailFormErr":"まだメール形式に準拠していません",
+        "require":"このアイテムは空にできません",
+        "notMatch":"パスワードが一致していません"
+        
+    },
+    "payment": {
+        "planIntro": "プログラム紹介",
+        "month2" : "か月",
+        "originalPrice": "定価",
+        "off10": "定価10％割引",
+        "off20": "定価20％割引",
+        "plan3":"アカウントあたり600NTD/月",
+        "plan6":"アカウントあたり540NTD/月",
+        "plan12":"アカウントあたり480NTD/月"
+
+    },
+   
+    "news":{
+        "empty" : {
+            "title":"ページが見つかりません。",
+            "comment":"このページは存在しません。"
+        }
+    },
+    "contact": {
+        "mainTitle": "お問い合わせ",
+        "subInfo" : "フォームに記入してください",
+        "name": "名前",
+        "companyName": "会社名",
+        "Title": "職名",
+        "phoneNum": "電話番号",
+        "message":"メッセージ"
+
+    },
+    "memberData": {
+        "mainTitle": "会員基本情報",
+        "editSwitch":"修正"
+
+    },
+    "vaildation":{
+        "empty_pre": " ",
+        "empty_post": "を入力してください。",
+        "invaild": "",
+        "invaild_post": "が正しくありません。",
+        "empty_select_pre": " ",
+        "empty_select_post": "を選んでください。",
+        "empty_upload_pre":  " ",
+        "empty_upload_post": "をアップロードしてください。",
+        "email_used": "このメールアドレスは使用できません。"
+    }
+}
